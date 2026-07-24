@@ -1,0 +1,30 @@
+COMPLAINT INTAKE FORM - RECEIVED VIA DISTRIBUTOR PORTAL
+
+Complaint Source: Distributor
+Customer Name: Nordvik Distribution AS, Oslo
+Product Name: Atorvastatin Calcium Tablets 20 mg
+Product Strength: 20 mg
+Batch No: ATV-2604-091
+Mfg Date: 2026-04-03
+Expiry Date: 2028-04-02
+Quantity Affected: 1200 packs
+Complaint Date: 2026-07-09
+
+Description of issue:
+
+Nordvik's warehouse team identified during goods-in inspection that the outer
+carton for the above batch displays the expiry date as 04/2028 while the blister
+foil printed within the same cartons shows 03/2028. The discrepancy was found
+across an estimated 1200 packs of a 4000 pack shipment. Batch coding on the
+blister is otherwise legible and the product itself appears conforming.
+
+No product has been distributed to pharmacies. The affected packs remain in
+quarantine at the Oslo distribution centre. Nordvik requests written
+confirmation of the correct expiry date and instruction on whether the affected
+packs should be relabelled under supervision or returned.
+
+Nordvik notes that a similar carton coding discrepancy was reported against
+batch ATV-2512-077 in December 2025 and asks whether the corrective actions from
+that investigation were effective.
+
+Reported by: Henrik Lund, QA Officer, Nordvik Distribution AS

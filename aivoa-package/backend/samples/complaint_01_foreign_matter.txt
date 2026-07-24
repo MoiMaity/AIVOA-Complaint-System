@@ -1,0 +1,44 @@
+From: quality@meridianpharma.co.uk
+To: qa.complaints@aivoa-labs.com
+Date: 14 July 2026
+Subject: Product Quality Complaint - Black particulate matter in Metformin HCl IP, Batch MET-2605-118
+
+Dear Quality Assurance Team,
+
+We are writing to formally raise a product quality complaint against material
+supplied under the batch detailed below.
+
+Customer Name: Meridian Pharma Ltd, Slough, UK
+Product Name: Metformin Hydrochloride IP
+Product Strength: 99.2% assay, IP/BP grade
+Batch No: MET-2605-118
+Mfg Date: 12/05/2026
+Expiry Date: 11/05/2029
+Quantity Affected: 45 kg
+Complaint Date: 14/07/2026
+
+During dispensing for our FDF granulation line on 11 July 2026, our production
+operators observed black to dark grey particulate matter distributed through the
+powder in two of the twenty five kilogram HDPE drums received against the above
+batch. The particles were visible against the white powder bed and ranged in
+size from approximately 0.5 mm to 2 mm. Dispensing was halted immediately and
+both drums were quarantined under hold label QH-2026-0442.
+
+Our in-house microscopy indicated the particles are non-metallic and appear
+fibrous in nature, possibly gasket or filter media. No metal detector alarm was
+triggered. The remaining drums from the consignment have been placed on hold
+pending your response.
+
+No material from this batch has been released into finished product, and no
+patient exposure has occurred. However, given the nature of the contamination we
+consider this a serious quality defect and request a formal investigation report
+within 30 calendar days in line with our quality agreement.
+
+Retained samples of the affected drums are available for your inspection.
+Photographs are attached separately.
+
+Kind regards,
+
+Alison Ward
+Head of Quality Assurance
+Meridian Pharma Ltd
